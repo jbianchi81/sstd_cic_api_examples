@@ -1,1 +1,8 @@
 usuario_svn_sstd_cdp
+bin
+include
+lib
+lib64
+etc
+share
+pyvenv.cfg
